@@ -4,4 +4,6 @@ project(kursova)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(kursova main.cpp
-        Employee.h)
+        Employee.h
+        Human.h
+        Product.h)
