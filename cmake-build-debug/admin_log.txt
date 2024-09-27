@@ -1,0 +1,65 @@
+Added product: 2
+Viewed all products.
+Viewed all products.
+Added product to cart: 2 (Quantity: 2)
+Printed receipt.
+Viewed all products.
+Viewed all products.
+Added product: asd
+Searched for product: asd
+Searched for product: asd
+Searched for product: 1
+Filtered products by price range: 123 to 123
+Filtered products by price range: 1 to 11
+Viewed all products.
+Edited product: 1
+Viewed all products.
+Edited product: asd
+Added product to cart: dsa (Quantity: 123)
+Printed receipt.
+Added product: dsa
+Deleted product: dsa
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 1 to 5
+Searched for product: 1
+Displayed employee information.
+Displayed store information.
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Sorted products by price.
+Added product: 213
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Added product: 21
+Added product: 1
+Added product: 2
+Added product: 3
+Edited product: 1
+Added product: 1
+Deleted product: 1
+Added product: 1
+Added product: 1
+Added product: 1
+Added product: w
+Viewed all products.
+Added product: 1
+Added product: 1
+Deleted product: 1
+Deleted product: w
+Added product: 1
+Added product: 1
+Deleted product: 1
+Added product: 1
+Added product: 1
+Deleted product: 1
+Added product: 1
+Added product: 2
+Deleted product: 1
+Deleted product: 2
+Added product: 1
+Added product: 1
+Added product: 2
+Edited product: 2

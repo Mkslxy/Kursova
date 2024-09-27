@@ -4,6 +4,11 @@ project(kursova)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(kursova main.cpp
-        Employee.h
+        ProductManager.h
         Human.h
-        Product.h)
+        Product.h
+        ElectricalProduct.h
+        Employee.h
+        Checkout.h
+        Logger.h
+        Logger.h)

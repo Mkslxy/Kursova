@@ -1,0 +1,2 @@
+Viewed all products.
+Sorted products by price.
