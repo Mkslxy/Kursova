@@ -1,2 +1,20 @@
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 1 to 50
+Searched for product: Oew
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 25 to 100
+Searched for product: oqwe2
+Added product to cart: oqwe2 (Quantity: 5)
+Printed receipt.
 Viewed all products.
 Sorted products by price.
+Viewed all products.
+Filtered products by price range: 10000 to 40000
+Searched for product: wer
+Added product to cart: poqwert (Quantity: 20)
+Cleared cart.
+Printed receipt.
+Viewed all products.
+Displayed store information.

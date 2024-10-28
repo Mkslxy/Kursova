@@ -24,7 +24,7 @@ public:
 
     int getCost() const { return cost; }
 
-    int getAmount() const { return amount; }
+    int getAmount(int newAmount)  { amount= newAmount; }
 
     std::string getUnitOfMeasurement() const { return unitOfMeasurement; }
 
@@ -41,8 +41,8 @@ public:
     void setLastDate(int l) { lastDate = l; }
 
     virtual ~Product() {
-        logger.log("Product destroyed: " + name);  // Log when Product is destroyed
+        logger.log("Product destroyed: " + name);
     }
 };
 
-#endif // PRODUCT_H
+#endif PRODUCT_H

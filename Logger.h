@@ -25,6 +25,8 @@ public:
         }
     }
 
+
+
     void log(const std::string &message) {
         if (logFile.is_open()) {
             logFile << message << std::endl;
@@ -34,4 +36,4 @@ public:
 
 extern Logger logger;
 
-#endif // LOGGER_H
+#endif  LOGGER_H

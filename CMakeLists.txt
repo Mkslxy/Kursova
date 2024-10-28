@@ -11,4 +11,5 @@ add_executable(kursova main.cpp
         Employee.h
         Checkout.h
         Logger.h
-        Logger.h)
+        Logger.h
+)

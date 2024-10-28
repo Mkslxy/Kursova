@@ -1,65 +1,371 @@
-Added product: 2
-Viewed all products.
-Viewed all products.
-Added product to cart: 2 (Quantity: 2)
-Printed receipt.
-Viewed all products.
-Viewed all products.
-Added product: asd
-Searched for product: asd
-Searched for product: asd
-Searched for product: 1
-Filtered products by price range: 123 to 123
-Filtered products by price range: 1 to 11
-Viewed all products.
-Edited product: 1
-Viewed all products.
-Edited product: asd
-Added product to cart: dsa (Quantity: 123)
-Printed receipt.
-Added product: dsa
-Deleted product: dsa
+Added product: Samsung
+Edited product: Samsung
 Sorted products by price.
 Viewed all products.
-Filtered products by price range: 1 to 5
-Searched for product: 1
-Displayed employee information.
-Displayed store information.
+Filtered products by price range: 10 to 10000
+Searched for product: Lap
+Added product to cart: Lap (Quantity: 1)
+Added product to cart: Laptop (Quantity: 5)
 Printed receipt.
 Cleared cart.
 Printed receipt.
-Sorted products by price.
-Added product: 213
+Viewed all products.
+Viewed all products.
+Added product to cart: Laptop (Quantity: 5)
+Printed receipt.
+Cleared cart.
+Viewed all products.
+Added product to cart: Iphone (Quantity: 2)
+Printed receipt.
+Viewed all products.
+Cleared cart.
+Added product to cart: Iphone (Quantity: 6)
+Printed receipt.
+Cleared cart.
+Viewed all products.
+Added product: Por
+Added product: Ope
+Edited product: Ope
+Viewed all products.
+Edited product: Por
 Viewed all products.
 Sorted products by price.
 Viewed all products.
-Added product: 21
-Added product: 1
-Added product: 2
-Added product: 3
-Edited product: 1
-Added product: 1
-Deleted product: 1
-Added product: 1
-Added product: 1
-Added product: 1
-Added product: w
+Filtered products by price range: 100 to 1000
+Searched for product: Ez
+Added product: Lenovo
+Added product: Xiomi
+Added product: Lao
 Viewed all products.
-Added product: 1
-Added product: 1
-Deleted product: 1
-Deleted product: w
-Added product: 1
-Added product: 1
-Deleted product: 1
-Added product: 1
-Added product: 1
-Deleted product: 1
-Added product: 1
-Added product: 2
-Deleted product: 1
-Deleted product: 2
-Added product: 1
-Added product: 1
-Added product: 2
-Edited product: 2
+Edited product: Lao
+Deleted product: Pal
+Added product: Pal
+Viewed all products.
+Edited product: Pal
+Viewed all products.
+Added product: SamsungGalaxy
+Viewed all products.
+Deleted product: Ops
+Deleted product: SamsungGalaxy
+Added product: Ioe
+Viewed all products.
+Edited product: Ioe
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 1000 to 100000
+Added product to cart: Ezae (Quantity: 10)
+Added product to cart: Iphone (Quantity: 5)
+Printed receipt.
+Cleared cart.
+Viewed all products.
+Deleted product: Ezae
+Viewed all products.
+Searched for product: Ezae
+Added product: Ezae
+Viewed all products.
+Edited product: Ezae
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 50000
+Added product: asd asd
+Added product: asd asd
+Added product: asd asd
+Deleted product: asd
+Deleted product: asd asd
+Added product: Lese
+Viewed all products.
+Edited product: Lese
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 1000 to 30000
+Searched for product: Iphone
+Added product to cart: Phone (Quantity: 2)
+Added product to cart: Lap (Quantity: 10)
+Added product: Ugse
+Deleted product: Ugse
+Added product: Ugse
+Viewed all products.
+Edited product: Ugse
+Viewed all products.
+Sorted products by price.
+Added product: Eqwesd
+Viewed all products.
+Edited product: Eqwesd
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 1000 to 10000
+Searched for product: Iphone
+Added product to cart: Laptop (Quantity: 2)
+Added product to cart: Oew (Quantity: 5)
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Viewed all products.
+Deleted product: Iphone
+Viewed all products.
+Searched for product: Iphone
+Displayed employee information.
+Displayed store information.
+Added product: qwer
+Viewed all products.
+Added product: asde
+Viewed all products.
+Edited product: asde
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 10 to 50
+Filtered products by price range: 10 to 30000
+Searched for product: Poews
+Added product: qweszxc
+Viewed all products.
+Edited product: qweszxc
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 10 to 10
+Added product: Poesdw
+Edited product: Poesdw
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 10000
+Searched for product: Opews
+Added product: asdqwe
+Viewed all products.
+Edited product: asdqwe
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Searched for product: qwe123
+Searched for product: Poews
+Added product: Oqweasd
+Viewed all products.
+Edited product: Oqweasd
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Searched for product: Laptop
+Searched for product: asd12356
+Added product to cart: Laptop (Quantity: 25)
+Viewed all products.
+Added product to cart: Poews (Quantity: 2)
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Viewed all products.
+Deleted product: Lap
+Viewed all products.
+Searched for product: Lap
+Added product: pdfoger
+Viewed all products.
+Edited product: pdfoger
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Searched for product: Poews
+Searched for product: asd123680
+Added product to cart: Poews (Quantity: 12)
+Added product: asdqwe
+Edited product: asdqwe
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 2500
+Searched for product: Poews
+Searched for product: 1
+Searched for product: asdadasdqwet
+Added product to cart: Lops1 (Quantity: 10)
+Added product to cart: Laptop (Quantity: 2)
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Deleted product:  Lops1
+Deleted product: Lops1
+Viewed all products.
+Added product: poqwezxc
+Viewed all products.
+Edited product: poqwezxc
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Searched for product: Poews
+Added product: Posd
+Searched for product: Posd
+Viewed all products.
+Edited product: Posd
+Searched for product: Pods
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Searched for product: Oqweasd
+Added product to cart: Oqweasd (Quantity: 10)
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Deleted product: Oqweasd
+Viewed all products.
+Searched for product: Oqweasd
+Displayed employee information.
+Displayed store information.
+Added product: Poqszxc
+Searched for product: Poqszxc
+Viewed all products.
+Edited product: Poqszxc
+Searched for product: Poqszx
+Searched for product: Poqzx
+Viewed all products.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 25000
+Added product: product
+Searched for product: product
+Viewed all products.
+Edited product: product
+Searched for product: product1
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 25 to 1000
+Added product to cart: zxcv (Quantity: 5)
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Deleted product: zxcv
+Searched for product: zxcv
+Displayed employee information.
+Displayed store information.
+Added product: pow2
+Searched for product: pow2
+Viewed all products.
+Edited product: pow2
+Searched for product: pow1
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 25 to 1000
+Added product to cart: Pods (Quantity: 1)
+Added product: pow3
+Searched for product: pow3
+Searched for product: +
+Edited product: pow2
+Edited product: pow3
+Searched for product: pow2
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 250 to 1000
+Searched for product: product1
+Added product to cart: product1 (Quantity: 10)
+Added product: pow123
+Searched for product: pow123
+Searched for product: +
+Edited product: pow123
+Searched for product: pow12
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 2500 to 40000
+Added product to cart: pow1 (Quantity: 10)
+Printed receipt.
+Cleared cart.
+Viewed all products.
+Searched for product: pow1
+Added product: opw2
+Searched for product: opw2
+Searched for product: +
+Edited product: opw2
+Sorted products by price.
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 2500 to 10000
+Searched for product: Pop
+Added product to cart: Pop (Quantity: 10)
+Printed receipt.
+Cleared cart.
+Searched for product: Pop
+Added product to cart: Poqzx (Quantity: 20)
+Added product to cart: Poqzx (Quantity: 15)
+Searched for product: Poqzx
+Added product to cart: Lenovo (Quantity: 20)
+Searched for product: Lenovo
+Searched for product: Lenovo
+Added product to cart: Lenovo (Quantity: 60)
+Searched for product: Lenovo
+Edited product: Lenovo
+Searched for product: Enter the name of the product to add to the cart:Lenovo
+Searched for product: Lenovo
+Added product to cart: Lenovo (Quantity: 10)
+Searched for product: Lenovo
+Added product to cart: Lenovo (Quantity: 80)
+Edited product: Lenovo
+Edited product: Lenovo
+Added product to cart: Lenovo (Quantity: 50)
+Searched for product: Lenovo
+Edited product: Lenovo
+Searched for product: Lenovo
+Added product to cart: Lenovo (Quantity: 25)
+Searched for product: Lenovo
+Edited product: Lenovo
+Added product to cart: Lenovo (Quantity: 50)
+Searched for product: Lenovo
+Added product: lopw23
+Added product to cart: lopw23 (Quantity: 50)
+Searched for product: lopw23
+Printed receipt.
+Cleared cart.
+Viewed all products.
+Searched for product: lopw23
+Added product to cart: lopw23 (Quantity: 25)
+Added product to cart: lopw23 (Quantity: 25)
+Printed receipt.
+Searched for product: lopw23
+Added product to cart: lopw23 (Quantity: 25)
+Printed receipt.
+Cleared cart.
+Added product to cart: lopw23 (Quantity: 2)
+Printed receipt.
+Cleared cart.
+Searched for product: lopw23
+Searched for product: opw1
+Added product to cart: opw1 (Quantity: 10)
+Searched for product: opw1
+Added product to cart: lopw23 (Quantity: 20)
+Printed receipt.
+Searched for product: lopw23
+Added product: power23
+Searched for product: power23
+Edited product: power23
+Searched for product: power23
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 100 to 2500
+Searched for product: power23
+Searched for product: Lenovo
+Added product to cart: Lenovo (Quantity: 50)
+Searched for product: Lenovo
+Cleared cart.
+Added product to cart: Lenovo (Quantity: 200)
+Searched for product: Lenovo
+Added product: Poes2
+Searched for product: Poes2
+Edited product: Poes2
+Searched for product: Poes2
+Sorted products by price.
+Viewed all products.
+Filtered products by price range: 25 to 1000
+Added product to cart: power23 (Quantity: 32)
+Searched for product: power23
+Printed receipt.
+Cleared cart.
+Printed receipt.
+Viewed all products.
+Deleted product: power23
+Deleted product: qweqweeqweqwe
+Searched for product: power23
+Displayed employee information.
+Displayed store information.

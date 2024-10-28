@@ -19,7 +19,11 @@ public:
                   << "\nUnit of Measurement: " << unitOfMeasurement << "\nSupply Date: " << lastDate
                   << "\nPower: " << power << "W\n";
     }
-
+    std::string getName() const { return name; }
+    int getCost() const { return cost; }
+    int getAmount() const { return amount; }
+    std::string getUnitOfMeasurement() const { return unitOfMeasurement; }
+    int getLastDate() const { return lastDate; }
     int getPower() const { return power; }
     void setPower(int p) { power = p; }
 
@@ -28,4 +32,4 @@ public:
     }
 };
 
-#endif // ELECTRICALPRODUCT_H
+#endif ELECTRICALPRODUCT_H

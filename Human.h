@@ -25,9 +25,6 @@ public:
         logger.log("Human copied: " + firstName + " " + lastName);
     }
 
-    virtual ~Human() {
-        logger.log("Human destroyed: " + firstName + " " + lastName);
-    }
 
     virtual void Print() const {
         std::cout << "Age = " << age << "\n"
@@ -37,6 +34,10 @@ public:
                   << "Physique = " << physique << "\n"
                   << "Last Name = " << lastName << "\n";
     }
+
+    virtual ~Human() {
+        logger.log("Human destroyed: " + firstName + " " + lastName);
+    }
 };
 
-#endif // HUMAN_H
+#endif  HUMAN_H

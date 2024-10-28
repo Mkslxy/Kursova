@@ -25,6 +25,8 @@ public:
         std::cout << "Payment = " << payment << "\n";
     }
 
+
+
     ~Employee() override {
         logger.log("Employee destroyed: " + getFirstName() + " " + getLastName());
     }
@@ -35,4 +37,4 @@ public:
 
 };
 
-#endif // EMPLOYEE_H
+#endif  EMPLOYEE_H
